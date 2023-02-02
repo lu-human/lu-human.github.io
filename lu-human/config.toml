@@ -1,0 +1,4 @@
+baseURL = 'https://lu-human.github.io/'
+languageCode = 'en-us'
+title = 'Leiden HumAN'
+theme= 'anubis'

@@ -1,2 +1,2 @@
-# lu-human.github.io
-Website for Leiden HumAN
+# lu-human
+GitHub Pages website for Leiden HumAN
