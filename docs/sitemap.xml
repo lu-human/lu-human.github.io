@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lu-human.github.io/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>https://lu-human.github.io/about/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://lu-human.github.io/events/</loc>
+    <loc>https://lu-human.github.io/news/</loc>
     <priority>0</priority>
   </url><url>
     <loc>https://lu-human.github.io/people/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://lu-human.github.io/categories/</loc>
+    <loc>https://lu-human.github.io/projects/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>https://lu-human.github.io/</loc>
+    <loc>https://lu-human.github.io/categories/</loc>
   </url><url>
     <loc>https://lu-human.github.io/tags/</loc>
   </url>

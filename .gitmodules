@@ -1,0 +1,6 @@
+[submodule "lu-human/themes/PaperMod"]
+	path = lu-human/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "lu-human/themes/contrast-hugo"]
+	path = lu-human/themes/contrast-hugo
+	url = https://github.com/niklasbuschmann/contrast-hugo
