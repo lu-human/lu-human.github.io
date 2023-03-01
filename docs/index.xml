@@ -12,36 +12,95 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lu-human.github.io/about/</guid>
-      <description></description>
+      <description>About Leiden HumAN Leiden Humanities AI and NLP group, Leiden HumAN, is a research group at Leiden University Faculty of Humanities working at the intersection of AI and the Humanities. We focus on development and application of NLP and deep learning methods in diverse areas of the Humanities, including Linguistics, History, East-Asian studies and Anthropology. Our goal is to bring together traditional and state-of-the-art computational methods and foster innovative research in the Humanities.</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://lu-human.github.io/news/</link>
+      <title>21-04-2023 | BERT workshop with Enrique Manjavacas</title>
+      <link>https://lu-human.github.io/news/bert/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lu-human.github.io/news/</guid>
-      <description></description>
+      <guid>https://lu-human.github.io/news/bert/</guid>
+      <description>On the 21th of April, Enrique Manjavacas, a postdoc research at Leiden University&amp;rsquo;s Centre for Linguistics will give a workshop on the BERT language model, and specifically the GysBERT and MacBERT models created with historical language data.
+Location: Digital Lab, P.J. Veth 1.07 Time: TBD</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://lu-human.github.io/people/</link>
+      <title>Aron van de Pol</title>
+      <link>https://lu-human.github.io/people/aron/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lu-human.github.io/people/</guid>
-      <description>People Leiden HumAN consists of researchers from various backgrounds.
-Jelena Prokic (Personal Page) Aron van de Pol (Personal Page) Matthew sung (Personal Page) Jiahui Liang (Personal Page) Jiehai Liu (Personal Page) Ruben Ros (Personal Page) </description>
+      <guid>https://lu-human.github.io/people/aron/</guid>
+      <description>Aron van de Pol is a PhD candidate at the Centre for Digital Humanities (LUCDH) and the Institute for Area Studies (LIAS).
+Personal Page</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://lu-human.github.io/projects/</link>
+      <title>Jelena Prokic</title>
+      <link>https://lu-human.github.io/people/jelena/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lu-human.github.io/projects/</guid>
-      <description>Projects Our researchers are engaged in several projects, combining AI with Humanities questions.
-Test Project! </description>
+      <guid>https://lu-human.github.io/people/jelena/</guid>
+      <description>Jelena Prokic is an Assistant Professor at the Leiden University Centre for Digital Humanities. Her research focus is on the use of computational methods in the study of language, with emphasis on quantitative approaches to language variation and change.
+Personal Page</description>
+    </item>
+    
+    <item>
+      <title>Jiahui Liang</title>
+      <link>https://lu-human.github.io/people/jiahui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lu-human.github.io/people/jiahui/</guid>
+      <description>Jiahui Liang is a PhD candidate at Leiden University Centre for Linguistics (LUCL) and Leiden University Centre for Digital Humanities (LUCDH).
+Personal Page</description>
+    </item>
+    
+    <item>
+      <title>Jiehai Liu</title>
+      <link>https://lu-human.github.io/people/jiehai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lu-human.github.io/people/jiehai/</guid>
+      <description>Jiehai Liu is a Guest Researcher at the Leiden University Centre for Linguistics.
+Personal Page</description>
+    </item>
+    
+    <item>
+      <title>Matthew Sung</title>
+      <link>https://lu-human.github.io/people/matthew/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lu-human.github.io/people/matthew/</guid>
+      <description>Matthew Sung is a PhD candidate at Leiden University Centre for Linguistics (LUCL) and Leiden University Centre for Digital Humanities (LUCDH).
+Personal Page</description>
+    </item>
+    
+    <item>
+      <title>Measuring Tonal Distances using Dialect Tonometry (TBC)</title>
+      <link>https://lu-human.github.io/projects/matthew/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lu-human.github.io/projects/matthew/</guid>
+      <description>My PhD project involves using computational methods and cartographic techniques to explore, visualise and analyse dialectal variation.
+The primary focus of my project is to develop a tone distance metric which allows dialectologists to calculate dialect distances on the tonal level. In addition, I will address dialectological questions such as &amp;ldquo;do dialect boundaries exist?&amp;rdquo; and &amp;ldquo;what are transition dialects like?&amp;rdquo; for both tonal and segmental levels, using Yue as my case study.</description>
+    </item>
+    
+    <item>
+      <title>Ruben Ros</title>
+      <link>https://lu-human.github.io/people/ruben/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lu-human.github.io/people/ruben/</guid>
+      <description>Ruben Ros is a researcher at the Leiden Center for Digital Humanities and the Department for History.</description>
+    </item>
+    
+    <item>
+      <title>Tracing the History of Technocracy in Historical Parliamentary Debates</title>
+      <link>https://lu-human.github.io/projects/ruben/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lu-human.github.io/projects/ruben/</guid>
+      <description>Democracy is often said to be under the sway of &amp;ldquo;technocracy&amp;rdquo;: expert rule. Scientific institutions, experts and model have a tremendous influence on democratic decision-making, often at the cost of transparency and sovereignty. This research studies the rise of technocratic ways of thinking and the impact they have on democratic debate. It does so by mining and modelling millions of parliamentary debates from the twentieth century Dutch Lower House using NLP (Natural Language Processing) methods.</description>
     </item>
     
   </channel>

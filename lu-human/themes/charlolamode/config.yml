@@ -1,0 +1,59 @@
+baseURL: 
+title: Leiden University HumAN
+paginate: 5
+theme: charlolamode
+
+menu:
+    main:
+        - name: Contact
+          url: /contact/
+          weight: 30
+        - name: Articles
+          url: /articles/
+          weight: 20
+        - name: Projects
+          url: /projects/
+          weight: 15
+   
+
+
+params:
+    author: Author's Name
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: true
+    ShowReadingTime: true
+    displayFullLangName: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowToc: true
+
+    profileMode:
+        # Disable to populate home page with 'mainSections' content
+        enabled: true
+        title: Leiden HumAN
+        description: |
+          Leiden Humanities AI and NLP group, Leiden HumAN, is a research group at Leiden University Faculty of Humanities working at the intersection of AI and the Humanities. We focus on development and application of NLP and deep learning methods in diverse areas of the Humanities, including Linguistics, History, East-Asian studies and Anthropology. Our goal is to bring together traditional and state-of-the-art computational methods and foster innovative research in the Humanities. At the same time our research objective is to increase the role of the Humanities in the development of Human AI.
+          
+        imageUrl: "/images/logo-human-dark.svg"
+        imageTitle: logo
+        # imageWidth: 120
+        # imageHeight: 120
+
+    assets:
+          favicon: "/images/favicon.ico"
+          favicon16x16: "/images/favicon-16x16.png"
+          favicon32x32: "/images/favicon-32x32.png"
+          apple_touch_icon: "/images/apple-touch-icon.png"
+          safari_pinned_tab: "/images/apple-touch-icon.png"
+
+
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+enableEmoji: true
+pygmentsUseClasses: true
+
+minify:
+    disableXML: true
+

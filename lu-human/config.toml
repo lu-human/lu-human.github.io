@@ -1,33 +1,30 @@
 baseURL = 'https://lu-human.github.io/'
 languageCode = 'en-us'
-theme='contrast-hugo'
+theme='charlolamode'
 
-[params]
-  minimal = false
-  excerpts = false
-  description = "my blog"
 
 [menu]
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 10
+    weight = 2
 
   [[menu.main]]
     identifier = "news"
     name = "News"
     url = "/news/"
-    weight = 10
+    weight = 3
 
   [[menu.main]]
     identifier = "people"
     name = "People"
     url = "/people/"
-    weight = 10
+    weight = 4
 
   [[menu.main]]
     identifier = "projects"
     name = "Projects"
     url = "/projects/"
-    weight = 10
+    weight = 5
+

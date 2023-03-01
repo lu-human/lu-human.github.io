@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>People on </title>
+    <link>https://lu-human.github.io/people/</link>
+    <description>Recent content in People on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://lu-human.github.io/people/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aron van de Pol</title>
+      <link>https://lu-human.github.io/people/aron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lu-human.github.io/people/aron/</guid>
+      <description>Aron van de Pol is a PhD candidate at the Centre for Digital Humanities (LUCDH) and the Institute for Area Studies (LIAS).
+Personal Page</description>
+    </item>
+    
+    <item>
+      <title>Jelena Prokic</title>
+      <link>https://lu-human.github.io/people/jelena/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lu-human.github.io/people/jelena/</guid>
+      <description>Jelena Prokic is an Assistant Professor at the Leiden University Centre for Digital Humanities. Her research focus is on the use of computational methods in the study of language, with emphasis on quantitative approaches to language variation and change.
+Personal Page</description>
+    </item>
+    
+    <item>
+      <title>Jiahui Liang</title>
+      <link>https://lu-human.github.io/people/jiahui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lu-human.github.io/people/jiahui/</guid>
+      <description>Jiahui Liang is a PhD candidate at Leiden University Centre for Linguistics (LUCL) and Leiden University Centre for Digital Humanities (LUCDH).
+Personal Page</description>
+    </item>
+    
+    <item>
+      <title>Jiehai Liu</title>
+      <link>https://lu-human.github.io/people/jiehai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lu-human.github.io/people/jiehai/</guid>
+      <description>Jiehai Liu is a Guest Researcher at the Leiden University Centre for Linguistics.
+Personal Page</description>
+    </item>
+    
+    <item>
+      <title>Matthew Sung</title>
+      <link>https://lu-human.github.io/people/matthew/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lu-human.github.io/people/matthew/</guid>
+      <description>Matthew Sung is a PhD candidate at Leiden University Centre for Linguistics (LUCL) and Leiden University Centre for Digital Humanities (LUCDH).
+Personal Page</description>
+    </item>
+    
+    <item>
+      <title>Ruben Ros</title>
+      <link>https://lu-human.github.io/people/ruben/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lu-human.github.io/people/ruben/</guid>
+      <description>Ruben Ros is a researcher at the Leiden Center for Digital Humanities and the Department for History.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,22 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lu-human.github.io/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>https://lu-human.github.io/about/</loc>
-    <priority>0</priority>
   </url><url>
-    <loc>https://lu-human.github.io/news/</loc>
-    <priority>0</priority>
+    <loc>https://lu-human.github.io/news/bert/</loc>
   </url><url>
-    <loc>https://lu-human.github.io/people/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://lu-human.github.io/projects/</loc>
-    <priority>0</priority>
+    <loc>https://lu-human.github.io/people/aron/</loc>
   </url><url>
     <loc>https://lu-human.github.io/categories/</loc>
   </url><url>
+    <loc>https://lu-human.github.io/people/jelena/</loc>
+  </url><url>
+    <loc>https://lu-human.github.io/people/jiahui/</loc>
+  </url><url>
+    <loc>https://lu-human.github.io/people/jiehai/</loc>
+  </url><url>
+    <loc>https://lu-human.github.io/people/matthew/</loc>
+  </url><url>
+    <loc>https://lu-human.github.io/projects/matthew/</loc>
+  </url><url>
+    <loc>https://lu-human.github.io/news/</loc>
+  </url><url>
+    <loc>https://lu-human.github.io/categories/news/</loc>
+  </url><url>
+    <loc>https://lu-human.github.io/people/</loc>
+  </url><url>
+    <loc>https://lu-human.github.io/categories/people/</loc>
+  </url><url>
+    <loc>https://lu-human.github.io/projects/</loc>
+  </url><url>
+    <loc>https://lu-human.github.io/categories/projects/</loc>
+  </url><url>
+    <loc>https://lu-human.github.io/people/ruben/</loc>
+  </url><url>
     <loc>https://lu-human.github.io/tags/</loc>
+  </url><url>
+    <loc>https://lu-human.github.io/projects/ruben/</loc>
   </url>
 </urlset>
