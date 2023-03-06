@@ -2,6 +2,7 @@
 categories: "people"
 title: Aron van de Pol
 layout: single
+image: "/images/aron-profile.png"
 ---
 
 Aron van de Pol is a PhD candidate at the Centre for Digital Humanities (LUCDH) and the Institute for Area Studies (LIAS).
